@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|c:\\users\\rosua\\source\\repos\\pruebatecnicaluisvelezapi\\controllers\\orderprocessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|solutionrelative:controllers\\orderprocessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|c:\\users\\rosua\\source\\repos\\pruebatecnicaluisvelezapi\\services\\iorderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|solutionrelative:services\\iorderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|c:\\users\\rosua\\source\\repos\\pruebatecnicaluisvelezapi\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|solutionrelative:services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|c:\\users\\rosua\\source\\repos\\pruebatecnicaluisvelezapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D90D27-5D0B-4963-884E-C62304FAB3EF}|PruebaTecnicaLuisVelezAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Services\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Services\\OrderProcessor.cs",
+              "RelativeToolTip": "Services\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:48:01.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Services\\IOrderProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderProcessor.cs",
+              "ToolTip": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Services\\IOrderProcessor.cs",
+              "RelativeToolTip": "Services\\IOrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:47:58.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessorController.cs",
+              "DocumentMoniker": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Controllers\\OrderProcessorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderProcessorController.cs",
+              "ToolTip": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Controllers\\OrderProcessorController.cs",
+              "RelativeToolTip": "Controllers\\OrderProcessorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:47:49.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rosua\\source\\repos\\PruebaTecnicaLuisVelezAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:46:57.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

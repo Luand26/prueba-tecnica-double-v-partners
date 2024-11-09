@@ -1,0 +1,14 @@
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\bin\Debug\net8.0\PruebaTecnicaLuisVelez.exe
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\bin\Debug\net8.0\PruebaTecnicaLuisVelez.deps.json
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\bin\Debug\net8.0\PruebaTecnicaLuisVelez.runtimeconfig.json
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\bin\Debug\net8.0\PruebaTecnicaLuisVelez.dll
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\bin\Debug\net8.0\PruebaTecnicaLuisVelez.pdb
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.AssemblyInfoInputs.cache
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.AssemblyInfo.cs
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.csproj.CoreCompileInputs.cache
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.dll
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\refint\PruebaTecnicaLuisVelez.dll
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.pdb
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\PruebaTecnicaLuisVelez.genruntimeconfig.cache
+C:\Users\rosua\source\repos\PruebaTecnicaLuisVelez\obj\Debug\net8.0\ref\PruebaTecnicaLuisVelez.dll

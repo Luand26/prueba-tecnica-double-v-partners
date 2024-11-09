@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PruebaTecnicaLuisVelezAPI.Controllers.OrderProcessorController",
+    "Method": "OrderProcess",
+    "RelativePath": "OrderProcessor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
